@@ -3,4 +3,4 @@
 def main(msg):
     print(msg)
 
-main("This is a pyCharm script testing!")
+main("This is a test script!")
